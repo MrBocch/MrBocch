@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hai👋
+
+<a href="https://kitten-xd.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-hai-blueviolet" alt="itch.io"></a>
+
 
 <!--
 **MrBocch/MrBocch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
