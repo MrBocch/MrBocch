@@ -2,7 +2,7 @@
 
 <a href="https://darkxp.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-hai-blueviolet" alt="itch.io"></a>
 
-
+![:mrbocch](https://count.getloli.com/@mrbocch?name=mrbocch&theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 <!--
 **MrBocch/MrBocch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
